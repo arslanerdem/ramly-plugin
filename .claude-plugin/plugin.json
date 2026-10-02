@@ -8,7 +8,7 @@
   "repository": "https://github.com/arslanerdem/ramly-plugin",
   "license": "MIT",
   "keywords": ["reliability", "availability", "maintainability", "RAM", "RBD", "monte-carlo", "markov", "MTBF", "MTTR", "SIL", "PFD", "spares", "maintenance"],
-  "icon": "./assets/logo.png",
+  "icon": "./assets/icon.png",
   "documentationUrl": "https://ramly.io/learn",
   "supportUrl": "https://github.com/arslanerdem/ramly-plugin/issues",
   "privacyPolicyUrl": "https://ramly.io/privacy",
