@@ -1,0 +1,14 @@
+{
+  "name": "ramly",
+  "description": "Ramly: reliability, availability and maintainability (RAM) analysis for Claude.",
+  "owner": { "name": "Ramly LLC", "url": "https://ramly.io" },
+  "plugins": [
+    {
+      "name": "ramly",
+      "source": "./",
+      "description": "Build reliability block diagrams and run Monte Carlo / analytical RAM studies on your Ramly account.",
+      "category": "engineering",
+      "tags": ["reliability", "availability", "RAM", "simulation"]
+    }
+  ]
+}

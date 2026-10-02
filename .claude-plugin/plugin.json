@@ -1,0 +1,16 @@
+{
+  "name": "ramly",
+  "displayName": "Ramly RAM analysis",
+  "version": "1.0.0",
+  "description": "Reliability, availability and maintainability studies: build reliability block diagrams and run Ramly's Monte Carlo and analytical (Markov) engines from Claude. Connects to your Ramly account.",
+  "author": { "name": "Ramly LLC", "url": "https://ramly.io" },
+  "homepage": "https://ramly.io",
+  "repository": "https://github.com/arslanerdem/ramly-plugin",
+  "license": "MIT",
+  "keywords": ["reliability", "availability", "maintainability", "RAM", "RBD", "monte-carlo", "markov", "MTBF", "MTTR", "SIL", "PFD", "spares", "maintenance"],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://ramly.io/learn",
+  "supportUrl": "https://github.com/arslanerdem/ramly-plugin/issues",
+  "privacyPolicyUrl": "https://ramly.io/privacy",
+  "termsOfServiceUrl": "https://ramly.io/terms"
+}

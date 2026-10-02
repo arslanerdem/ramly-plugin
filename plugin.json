@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "ramly",
+  "version": "1.0.0",
+  "description": "Reliability, availability and maintainability studies: build reliability block diagrams and run Ramly's Monte Carlo and analytical (Markov) engines. Connects to your Ramly account via OAuth.",
+  "author": { "name": "Ramly LLC", "url": "https://ramly.io" },
+  "homepage": "https://ramly.io",
+  "repository": "https://github.com/arslanerdem/ramly-plugin",
+  "license": "MIT",
+  "keywords": ["reliability", "availability", "maintainability", "ram", "rbd", "monte-carlo", "markov", "mtbf", "sil"]
+}
